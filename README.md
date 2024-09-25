@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# Practice Relational Database Operations with TypeORM
 
 Steps to run this project:
 
